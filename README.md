@@ -10,8 +10,8 @@
   Content that’s well-written, interesting, and engaging is more likely to perform well than content that is dull or unoriginal. It’s all about providing value to      your audience, whether that means providing unique perspectives, helpful advice, or engaging storytelling.
 
   The format and presentation of content, in addition to its quality, have a big impact on how well it performs. With the popularity of visual material growing,        adding appealing photos, videos, infographics, and interactive features can improve the content's overall appeal and engagement. ensuring that the material is        optimized without copyright, scannable, and easily readable.
-- [https://xamblog.com]([https://xamblog.com])
-- [https://xamtrade.com]([https://xamtrade.com])
+- [https://xamblog.com](https://xamblog.com)
+- [https://xamtrade.com](https://xamtrade.com)
 
 <!---
 livegifting/livegifting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
